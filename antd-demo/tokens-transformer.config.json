@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "source": {
+    "tokensFile": "src/tokens/tokens.json"
+  },
+  "target": {
+    "lessDir": "src/tokens/less"
+  }
+}
